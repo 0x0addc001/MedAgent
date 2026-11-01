@@ -6,8 +6,6 @@ MedAgent collects history, retrieves clinical evidence, triages risk, and prepar
 
 面向医疗问诊的 Agent：完成病史采集、临床证据检索和风险分诊，并准备医生交接，不替代医疗判断。
 
-**Status:** Project scaffold · [Portfolio](https://0x0addc001.github.io/#use-cases)
-
 **Important:** This repository is not a medical device and must not be used for diagnosis or treatment without qualified clinical oversight.
 
 ## Agent loop
